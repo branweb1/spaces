@@ -8,6 +8,10 @@ const displayInfo = {
   lawrence_clouds_end: {
     linkName: 'T.E. Lawrence',
     subTitle: 'T.E. Lawrence - Cloud\'s Hill'
+  },
+  dahl_writing_hut: {
+    linkName: 'Roald Dahl',
+    subTitle: 'Roald Dahl - Writing Hut'
   }
 };
 
