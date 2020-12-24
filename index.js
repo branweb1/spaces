@@ -12,6 +12,10 @@ const displayInfo = {
   dahl_writing_hut: {
     linkName: 'Roald Dahl',
     subTitle: 'Roald Dahl - Writing Hut'
+  },
+  montaigne_tower: {
+    linkName: 'Montaigne',
+    subTitle: 'Montaigne - Tower'
   }
 };
 
